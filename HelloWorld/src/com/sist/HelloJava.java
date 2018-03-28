@@ -7,7 +7,7 @@ public class HelloJava {
 		System.out.println("Hello Java");
 		System.out.println("Hello Java");
 		System.out.println("Hello Java");
-		System.out.println("");
+		System.out.println("성희");
 	}
 
 }

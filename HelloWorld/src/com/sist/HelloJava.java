@@ -8,6 +8,7 @@ public class HelloJava {
 		System.out.println("Hello Java");
 		System.out.println("Hello Java");
 		System.out.println("유성은");
+		System.out.println("");
 	}
 
 }
